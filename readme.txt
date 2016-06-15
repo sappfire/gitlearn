@@ -1,2 +1,4 @@
 add 20160615
-learngit 
+learngit
+
+add new words 
