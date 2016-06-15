@@ -7,4 +7,6 @@ delete something
 select something
 refresh something
 
-update once 
+update once
+
+add by master 
