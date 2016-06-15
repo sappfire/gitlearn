@@ -6,3 +6,5 @@ update something
 delete something
 select something
 refresh something
+
+update once 
