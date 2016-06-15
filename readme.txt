@@ -1,4 +1,8 @@
 add 20160615
 learngit
 
-add new words 
+add new 
+update something 
+delete something
+select something
+refresh something
